@@ -37,7 +37,7 @@ export default function HeroSection() {
 
           <p className="text-lg sm:text-xl text-white/80 max-w-2xl mx-auto mb-10 leading-relaxed">
             Amplificamos las capacidades de tu equipo con Inteligencia Artificial.
-            Sin despidos, sin complejidad innecesaria. Solo resultados medibles.
+            Potenciamos al personal, sin complejidad innecesaria. Solo resultados medibles.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
